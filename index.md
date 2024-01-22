@@ -4,3 +4,5 @@
 #### h4: From here it will be too small to see
 ##### wow
 ###### the smallest, why has the color of text changed as well?
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
