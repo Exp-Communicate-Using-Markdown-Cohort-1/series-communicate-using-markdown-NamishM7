@@ -6,3 +6,8 @@
 ###### the smallest, why has the color of text changed as well?
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
